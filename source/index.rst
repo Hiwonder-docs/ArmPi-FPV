@@ -10,13 +10,14 @@
    docs/1.getting_ready.md
    docs/2.quick_user_experience.md
    docs/general_basic_courses.md
-   docs/9.armPi_fpv_inverse_kinematics_basics&application.md
-   docs/10.motion_planning_and_moveIt_simulation.md
-   docs/11.armpi_action_programming.md
-   docs/12.monocular_camera_lesson.md
-   docs/14.ros_opencv_course.md
-   docs/15.smart_warehousing_course.md
-   docs/16.voice_interaction_gameplay_course.md
-   docs/17.mass_messaging_control_course.md
-   docs/18.sensor_fundamentals_development_course.md
-   docs/19.expanding_the_course_on_sensor_development_and_application.md
+   docs/8.remote.md
+   docs/9.inverse_kinematics.md
+   docs/10.motion_planning_simulation.md
+   docs/11.action_programming.md
+   docs/12.monocular_camera.md
+   docs/14.ros_opencv.md
+   docs/15.smart_warehousing.md
+   docs/16.voice_interaction_gameplay.md
+   docs/17.mass_messaging_control.md
+   docs/18.sensor.md
+   docs/19.expanding_sensor.md
