@@ -17,7 +17,6 @@
    docs/12.monocular_camera.md
    docs/14.ros_opencv.md
    docs/15.smart_warehousing.md
-   docs/16.voice_interaction_gameplay.md
    docs/17.mass_messaging_control.md
    docs/18.sensor.md
    docs/19.expanding_sensor.md
