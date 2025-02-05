@@ -20,6 +20,7 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 myst_enable_extensions = [
+    "attrs_block",
     "colon_fence",
     "substitution",
 ]
