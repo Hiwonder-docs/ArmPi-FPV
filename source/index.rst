@@ -20,3 +20,4 @@
    docs/17.mass_messaging_control.md
    docs/18.sensor.md
    docs/19.expanding_sensor.md
+   docs/resources_download.md
