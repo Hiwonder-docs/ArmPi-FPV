@@ -3,13 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+============
+ArmPi FPV
+============
+
 .. toctree::
    :maxdepth: 2
    :caption: ArmPi FPV
 
    docs/1.getting_ready.md
    docs/2.quick_user_experience.md
-   docs/general_basic_courses.md
    docs/8.remote.md
    docs/9.inverse_kinematics.md
    docs/10.motion_planning_simulation.md
