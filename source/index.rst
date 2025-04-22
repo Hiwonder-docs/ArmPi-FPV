@@ -24,3 +24,4 @@ ArmPi FPV
    docs/18.sensor.md
    docs/19.expanding_sensor.md
    docs/resources_download.md
+   Download <https://drive.google.com/drive/folders/11wl0ss4zelJUnhpM2iadch4rDxFnV4dg?usp=sharing>
